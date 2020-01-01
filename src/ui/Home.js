@@ -5,7 +5,7 @@ import  shoppingBag  from "../shoppingBag.jpg";
 
 export function Home() {
   return (
-    <MainSection heading="Start Shopping">
+    <MainSection heading="Start Shopping...">
       <Img src={shoppingBag} alt="shoppingBag"></Img>
     </MainSection>
   );
